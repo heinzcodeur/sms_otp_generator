@@ -1,0 +1,11 @@
+.main-wrapper {
+    height: 100vh;
+}
+
+.content {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+}
